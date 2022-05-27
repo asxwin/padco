@@ -45,7 +45,7 @@ const App = () => {
                 <td>
                   <p className="navi tracking-[3px] font-lato text-[1.3rem]">
                     <a href="https://www.w3schools.com" >
-                      PASCO Retrievallle
+                      PASCO Retrieval
                     </a>
                   </p>
                 </td>
