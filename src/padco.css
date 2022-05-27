@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+.navi:hover{
+    color: red;
+    transition: 0.3s;
+}
+.button1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    background-color: #5a719c7d;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 1.04rem;
+    border-radius: 20px;
+    letter-spacing: 3px;
+    width:11rem;
+    height: 3rem;
+  }
+  input[type=text] {
+    width:30%;
+    text-align: center;
+    height: 1.7rem;
+    box-sizing: border-box;
+    border: none;
+    background-color: #979797;
+    color: white;
+    border-radius: 5px;
+    font-family: 'Lato', sans-serif ;
+  }
+
+  input[type=text1] {
+    width:100%;
+    text-align: center;
+    height: 4rem;
+    box-sizing: border-box;
+    border: none;
+    font-size:1.15rem;
+    background-color: #979797;
+    color: white;
+    font-family: 'Lato', sans-serif ;
+  }
+
+  input[type=text2] {
+    width:100%;
+    text-align: center;
+    height: 4rem;
+    box-sizing: border-box;
+    border: none;
+    background-color: #979797;
+    color: white;
+    border-bottom-right-radius: 10px;
+    font-family: 'Lato', sans-serif ;
+    font-size:1.15rem; 
+  }
+
+.grad{
+   height:9rem;
+   width:65%;
+   margin: auto;
+   text-align: center; 
+   background-image: linear-gradient(10deg, #00000000,#8db5ff0e, #8DB4FF);
+   border-radius:80px;
+   justify-content: center;
+   align-items: center;
+}
