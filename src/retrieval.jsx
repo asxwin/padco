@@ -66,11 +66,11 @@ const Retrieval = () => {
             Please enter given values
           </p>
         </div>
-        <div class="pt-[7rem]">
-          <div class="h-[5.5rem] w-[25%] m-auto text-center bg-[#d7f4f568] pt-[0.6rem] shadow-3xl rounded-[40px]">
+        <div class="pt-[6rem]">
+          <div class="tabloid2">
           <p class="flex-auto tracking-[3px] font-lato text-[1.3rem] pt-[1.2rem]">
               Enter Date From : 
-              <input type="date" class="bg-[#d7f4f568] font-lato tracking-[4px] text-[#c12525]" id="date-object"/>
+              <input type="date" class="bg-[#d7f4f500] font-lato tracking-[4px] text-[#c12525]" id="date-object"/>
             </p>
         </div>
         
@@ -78,15 +78,15 @@ const Retrieval = () => {
         </div>
     
         <div class="pt-[4rem]">
-          <div class="h-[5.5rem] w-[25%] m-auto text-center bg-[#d7f4f568] pt-[0.6rem] shadow-3xl rounded-[40px]">
-            <p class="flex-auto tracking-[3px] font-lato text-[1.3rem] pt-[1.2rem]">
-              Enter Date To : 
-              <input type="date" class="bg-[#d7f4f568] font-lato tracking-[4px] text-[#c12525]" id="date-object"/>
+          <div class="tabloid2">
+            <p class="flex-auto tracking-[3px] font-lato text-[1.3rem] pt-[1.2rem] whitespace-pre-wrap">
+              Enter Date To     :     
+              <input type="date" class="bg-[#d7f4f500] font-lato tracking-[4px] text-[#c12525]" id="date-object"/>
             </p>
           </div>
         </div>
 
-        <div class="pt-[4rem]">
+        <div class="pt-[5rem]">
               <div align="center">
                   <button class="button1">
                         SUBMIT

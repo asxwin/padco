@@ -40,7 +40,7 @@ const Home = () => {
         </div>
         <Link to="/entry">
         <div class="pt-[7rem]">
-          <div class="h-[5.5rem] w-[19%] m-auto text-center bg-[#d7f4f568] pt-[0.6rem] shadow-3xl rounded-[40px]">
+          <div class="tabloid1">
           <p class="flex-auto tracking-[4px] font-lato text-[1.7rem] pt-[1rem]">
               Entry
             </p>
@@ -52,7 +52,7 @@ const Home = () => {
 
         <Link to="/retrieval">
         <div class="pt-[4rem]">
-          <div class="h-[5.5rem] w-[19%] m-auto text-center bg-[#d7f4f568] pt-[0.6rem] shadow-3xl rounded-[40px]">
+          <div class="tabloid1">
           <p class="flex-auto tracking-[4px] font-lato text-[1.7rem] pt-[1rem]">
               Retrieval
             </p>
@@ -65,6 +65,7 @@ const Home = () => {
         </div>      
       
     </div>
+    
   
   );
 };

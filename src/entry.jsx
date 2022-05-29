@@ -66,8 +66,8 @@ const Entry = () => {
 
 
       <div class="w-full h-screen bg-[#F5F5F5] pt-[4rem]">
-        <div class="grad" >
-          <p class="flex-auto align-middle tracking-[4px] font-lato text-[2.5rem] pt-[2rem]">
+        <div className="grad" >
+          <p className="flex-auto align-middle tracking-[4px] font-lato text-[2.5rem] pt-[2rem]">
             Welcome to PASCO Entry Portal
 
           </p>
